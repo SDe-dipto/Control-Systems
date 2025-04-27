@@ -21,7 +21,7 @@ Analysis is then conducted after obtaining the transfer function, and it compris
 4. Finding the closed-loop system response when K=1  
 ![image](https://github.com/user-attachments/assets/84acbc85-07a1-4a8d-989a-5016b16540b3)
 
-5. Plotting the root-loci when gain K is cascaded
+5. Plotting the root-loci when gain K is cascaded  
 ![image](https://github.com/user-attachments/assets/599c9322-d82b-4dcd-825f-d4fface1f748)
 
 6. Design of controller in Simulink
